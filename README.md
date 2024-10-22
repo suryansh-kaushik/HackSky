@@ -1,9 +1,9 @@
 # HackSKy
 <b>Analysed and Enhanced F&B Services at United Airlines | Machine Learning, Python and SQL</b>
 
-<li> Performed root cause analysis to identify key drivers of F&B satisfaction score.
-<li> Utilised survey comments to gain insights into the major themes related to F&B that customers are complaining about.
-Provided actionable recommendations.
+<li> Conducted an in-depth analysis of real world Food & Beverages data, analyzed more than 400K+ rows ,20+ features & 4+ data tables
+<li> Engineered a detailed analysis,identified & resolved data inconsistency & discrepancy resulting in clean dataset and accurate analysis
+<li> Performed root cause analysis  in order to enhance customer satisfaction for food & beverages, provided actionable insights for the same
 
 Presentation Link: https://drive.google.com/file/d/1Ag1hkZlswhJ6UgLzp3f487nND8h09rEB/view?usp=drive_link
 
